@@ -1,0 +1,25 @@
+C:\Users\SEVRUM\Desktop\soru2\soru2\bin\Debug\soru2.exe
+C:\Users\SEVRUM\Desktop\soru2\soru2\bin\Debug\soru2.pdb
+C:\Users\SEVRUM\Desktop\soru2\soru2\obj\x86\Debug\soru2.Form1.resources
+C:\Users\SEVRUM\Desktop\soru2\soru2\obj\x86\Debug\soru2.Properties.Resources.resources
+C:\Users\SEVRUM\Desktop\soru2\soru2\obj\x86\Debug\soru2.csproj.GenerateResource.Cache
+C:\Users\SEVRUM\Desktop\soru2\soru2\obj\x86\Debug\soru2.exe
+C:\Users\SEVRUM\Desktop\soru2\soru2\obj\x86\Debug\soru2.pdb
+C:\Users\SEVRUM\Desktop\Rumeysa_Turgut_51_A10B\soru2\soru2\obj\x86\Debug\soru2.exe
+C:\Users\SEVRUM\Desktop\Rumeysa_Turgut_51_A10B\soru2\soru2\obj\x86\Debug\soru2.pdb
+C:\Users\SEVRUM\Desktop\Rumeysa_Turgut_51_A10B\soru2\soru2\bin\Debug\soru2.exe
+C:\Users\SEVRUM\Desktop\Rumeysa_Turgut_51_A10B\soru2\soru2\bin\Debug\soru2.pdb
+C:\Users\SEVRUM\Desktop\Rumeysa_Turgut_51_A10B\soru2\soru2\obj\x86\Debug\soru2.Form1.resources
+C:\Users\SEVRUM\Desktop\Rumeysa_Turgut_51_A10B\soru2\soru2\obj\x86\Debug\soru2.Properties.Resources.resources
+C:\Users\SEVRUM\Desktop\Rumeysa_Turgut_51_A10B\soru2\soru2\obj\x86\Debug\soru2.csproj.GenerateResource.Cache
+C:\Users\SEVRUM\Desktop\Rumeysa_Turgut_51_A10B\soru2\soru2\obj\x86\Debug\soru2.csprojResolveAssemblyReference.cache
+C:\Users\Edia\Desktop\Veri Tabanı Programcılığı\10.Sınıf_Proglamlama-Temelleri\soru2\soru2\obj\x86\Debug\soru2.exe
+C:\Users\Edia\Desktop\Veri Tabanı Programcılığı\10.Sınıf_Proglamlama-Temelleri\soru2\soru2\obj\x86\Debug\soru2.pdb
+C:\Users\Edia\Desktop\Veri Tabanı Programcılığı\10.Sınıf_Proglamlama-Temelleri\soru2\soru2\bin\Debug\soru2.exe
+C:\Users\Edia\Desktop\Veri Tabanı Programcılığı\10.Sınıf_Proglamlama-Temelleri\soru2\soru2\bin\Debug\soru2.pdb
+C:\Users\Edia\Desktop\Veri Tabanı Programcılığı\10.Sınıf_Proglamlama-Temelleri\soru2\soru2\obj\x86\Debug\soru2.csprojResolveAssemblyReference.cache
+C:\Users\Edia\Desktop\Veri Tabanı Programcılığı\10.Sınıf_Proglamlama-Temelleri\soru2\soru2\obj\x86\Debug\soru2.Form1.resources
+C:\Users\Edia\Desktop\Veri Tabanı Programcılığı\10.Sınıf_Proglamlama-Temelleri\soru2\soru2\obj\x86\Debug\soru2.Properties.Resources.resources
+C:\Users\Edia\Desktop\Veri Tabanı Programcılığı\10.Sınıf_Proglamlama-Temelleri\soru2\soru2\obj\x86\Debug\soru2.csproj.GenerateResource.Cache
+E:\Veri Tabanı Programcılığı\NTP\10.Sınıf_Proglamlama-Temelleri\soru2\soru2\obj\x86\Debug\soru2.exe
+E:\Veri Tabanı Programcılığı\NTP\10.Sınıf_Proglamlama-Temelleri\soru2\soru2\obj\x86\Debug\soru2.pdb

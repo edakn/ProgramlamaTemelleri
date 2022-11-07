@@ -1,0 +1,41 @@
+C:\Users\user\Desktop\Ödevler\05.04.2013\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\user\Desktop\Ödevler\05.04.2013\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\user\Desktop\Ödevler\05.04.2013\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ödevler\05.04.2013\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\user\Desktop\Ödevler\05.04.2013\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\user\Desktop\Ödevler\05.04.2013\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Ödevler\05.04.2013\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\Ödevler\05.04.2013\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+C:\Users\user\Desktop\Ödevler\05.04.2013\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+C:\Users\user\Desktop\Ödevler\05.04.2013\ggdfg\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+C:\Users\user\Desktop\Ödevler\05.04.2013\ggdfg\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+C:\Users\user\Desktop\İlkay Dosyalar\Programlama Temelleri\ilkay\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+C:\Users\user\Desktop\İlkay Dosyalar\Programlama Temelleri\ilkay\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+C:\Users\user\Desktop\İlkay Dosyalar\Programlama Temelleri\ilkay\Hesap Makinesiiii\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\user\Desktop\İlkay Dosyalar\Programlama Temelleri\ilkay\Hesap Makinesiiii\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\user\Desktop\İlkay Dosyalar\Programlama Temelleri\ilkay\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\İlkay Dosyalar\Programlama Temelleri\ilkay\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\user\Desktop\İlkay Dosyalar\Programlama Temelleri\ilkay\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\user\Desktop\İlkay Dosyalar\Programlama Temelleri\ilkay\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\İlkay Dosyalar\Programlama Temelleri\ilkay\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Betül\Desktop\Eda'dan oha for\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+C:\Users\Betül\Desktop\Eda'dan oha for\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+C:\Users\Betül\Desktop\Eda'dan oha for\Hesap Makinesiiii\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\Betül\Desktop\Eda'dan oha for\Hesap Makinesiiii\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\Betül\Desktop\Eda'dan oha for\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Betül\Desktop\Eda'dan oha for\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\Betül\Desktop\Eda'dan oha for\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\Betül\Desktop\Eda'dan oha for\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Betül\Desktop\Eda'dan oha for\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+E:\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+C:\Users\Edia\Desktop\WFA\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+C:\Users\Edia\Desktop\WFA\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+E:\Veri Tabanı Programcılığı\NTP\10.Sınıf_Proglamlama-Temelleri\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+E:\Veri Tabanı Programcılığı\NTP\10.Sınıf_Proglamlama-Temelleri\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+E:\Veri Tabanı Programcılığı\NTP\10.Sınıf_Proglamlama-Temelleri\Hesap Makinesiiii\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+E:\Veri Tabanı Programcılığı\NTP\10.Sınıf_Proglamlama-Temelleri\Hesap Makinesiiii\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+E:\Veri Tabanı Programcılığı\NTP\10.Sınıf_Proglamlama-Temelleri\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+E:\Veri Tabanı Programcılığı\NTP\10.Sınıf_Proglamlama-Temelleri\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form1.resources
+E:\Veri Tabanı Programcılığı\NTP\10.Sınıf_Proglamlama-Temelleri\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Properties.Resources.resources
+E:\Veri Tabanı Programcılığı\NTP\10.Sınıf_Proglamlama-Temelleri\Hesap Makinesiiii\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache

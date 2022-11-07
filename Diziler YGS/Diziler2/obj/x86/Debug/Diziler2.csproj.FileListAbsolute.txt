@@ -1,0 +1,11 @@
+C:\Users\Edia\Desktop\WFA\Diziler2\Diziler2\bin\Debug\Diziler2.exe
+C:\Users\Edia\Desktop\WFA\Diziler2\Diziler2\bin\Debug\Diziler2.pdb
+C:\Users\Edia\Desktop\WFA\Diziler2\Diziler2\obj\x86\Debug\Diziler2.Form1.resources
+C:\Users\Edia\Desktop\WFA\Diziler2\Diziler2\obj\x86\Debug\Diziler2.Properties.Resources.resources
+C:\Users\Edia\Desktop\WFA\Diziler2\Diziler2\obj\x86\Debug\Diziler2.csproj.GenerateResource.Cache
+C:\Users\Edia\Desktop\WFA\Diziler2\Diziler2\obj\x86\Debug\Diziler2.exe
+C:\Users\Edia\Desktop\WFA\Diziler2\Diziler2\obj\x86\Debug\Diziler2.pdb
+C:\Users\Edia\Desktop\WFA\Diziler YGS\Diziler2\obj\x86\Debug\Diziler2.exe
+C:\Users\Edia\Desktop\WFA\Diziler YGS\Diziler2\obj\x86\Debug\Diziler2.pdb
+E:\Veri Tabanı Programcılığı\NTP\10.Sınıf_Proglamlama-Temelleri\Diziler YGS\Diziler2\obj\x86\Debug\Diziler2.exe
+E:\Veri Tabanı Programcılığı\NTP\10.Sınıf_Proglamlama-Temelleri\Diziler YGS\Diziler2\obj\x86\Debug\Diziler2.pdb

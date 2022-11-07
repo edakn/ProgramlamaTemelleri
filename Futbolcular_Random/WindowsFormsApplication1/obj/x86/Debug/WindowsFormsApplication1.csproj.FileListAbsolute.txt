@@ -1,0 +1,22 @@
+C:\Users\Edia\Desktop\Windows From Application\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Edia\Desktop\Windows From Application\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Edia\Desktop\Windows From Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Edia\Desktop\Windows From Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Edia\Desktop\Windows From Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Edia\Desktop\Windows From Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Edia\Desktop\Windows From Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Edia\Desktop\Windows From Application\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Edia\Desktop\Windows From Application\Futbolcular_Random\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Edia\Desktop\Windows From Application\Futbolcular_Random\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Edia\Desktop\Windows From Application\Futbolcular_Random\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Edia\Desktop\Windows From Application\Futbolcular_Random\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Edia\Desktop\Windows From Application\Futbolcular_Random\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Edia\Desktop\Windows From Application\Futbolcular_Random\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Edia\Desktop\Windows From Application\Futbolcular_Random\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Edia\Desktop\Windows From Application\Futbolcular_Random\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Edia\Desktop\WFA\Futbolcular_Random\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Edia\Desktop\WFA\Futbolcular_Random\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Edia\Documents\Desktop\Life\Veri Tabanı Programcılığı\NTP\10.Sınıf_Proglamlama-Temelleri\Futbolcular_Random\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Edia\Documents\Desktop\Life\Veri Tabanı Programcılığı\NTP\10.Sınıf_Proglamlama-Temelleri\Futbolcular_Random\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Veri Tabanı Programcılığı\NTP\10.Sınıf_Proglamlama-Temelleri\Futbolcular_Random\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Veri Tabanı Programcılığı\NTP\10.Sınıf_Proglamlama-Temelleri\Futbolcular_Random\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
